@@ -136,8 +136,9 @@ Separating input handling, intent identification, and output response into discr
 ✅ Conclusion
 This script demonstrates the fundamentals of creating a rule-based chatbot in Python using NLTK. It’s a great introduction to the field of NLP and conversational AI. While it lacks advanced understanding or context memory like modern AI models, it efficiently introduces concepts such as tokenization, lemmatization, intent mapping, and user interaction loops. It can serve as a stepping stone for more complex bots that use machine learning, sentiment analysis, or deep learning-based natural language understanding systems.
 
-Let me know if you'd like a version of this that adds GUI support, logs chat history, or integrates with a website or API!
+OUTPUT:
 
+<img width="646" height="184" alt="Image" src="https://github.com/user-attachments/assets/fa731f56-0dc2-4414-892b-9e81bb8a200a" />
 
 
 
